@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+build/
+dist/
+
+src/setting.ini
+src/tft.log*
+src/icon.*
+*.spec
